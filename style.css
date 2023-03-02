@@ -1,0 +1,18 @@
+body {
+   
+    background-image:  url('bgimage.jpg') ;
+    height: 100%; 
+    margin: 0;
+
+/* Center and scale the image nicely */
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  
+
+.btn {
+    cursor: pointer;
+  
+}
+
